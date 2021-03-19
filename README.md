@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome! 👋
+
+![Alt Text](https://gph.is/g/amng3qy)
 
 <!--
 **craigs40/craigs40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

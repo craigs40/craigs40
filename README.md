@@ -4,7 +4,6 @@
 
 ![githubprofileimg2](https://user-images.githubusercontent.com/71286979/111851153-9d6eb300-88e8-11eb-8457-f16040c9859b.jpg)
 
-![Alt Text](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 
 <!--
 **craigs40/craigs40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-![Alt Text](https://gph.is/g/amng3qy)
+![Alt Text](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 
 <!--
 **craigs40/craigs40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

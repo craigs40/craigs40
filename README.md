@@ -1,7 +1,7 @@
 
 ![githubprofileimg](https://user-images.githubusercontent.com/71286979/111849582-4f57b080-88e4-11eb-8eff-57cf4316dfce.jpg)
 
-![githubprofileimg2](https://user-images.githubusercontent.com/71286979/111851715-bbd5ae00-88ea-11eb-843a-f3ea827ec377.jpg)
+![githubprofileimg2](https://user-images.githubusercontent.com/71286979/111851798-0b1bde80-88eb-11eb-904c-dc0605fd75fc.png)
 
 
 <!--
